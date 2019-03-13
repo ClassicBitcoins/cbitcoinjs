@@ -1,1 +1,1 @@
-# btcprivatejs
+# cbitcoinjs
