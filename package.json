@@ -1,7 +1,7 @@
 {
-  "name": "btcprivatejs",
+  "name": "cbitcoinjs",
   "version": "1.0.0",
-  "description": "Bitcoin Private JavaScript library, based on zclassicjs",
+  "description": "Classic Bitcoin JavaScript library, based on zclassicjs",
   "main": "./lib/index.js",
   "dependencies": {
     "babel-cli": "^6.24.1",
@@ -42,15 +42,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BTCP-community/btcprivatejs.git"
+    "url": "git+https://github.com/classicbitcoins/cbitcoinjs.git"
   },
   "keywords": [
-    "btcprivatejs"
+    "cbitcoinjs"
   ],
-  "author": "The Bitcoin Private Team",
+  "author": "The Classic Bitcoin Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BTCP-community/btcprivatejs/issues"
+    "url": "https://github.com/classicbitcoins/cbitcoinjs/issues"
   },
-  "homepage": "https://github.com/BTCP-community/btcprivatejs#readme"
+  "homepage": "https://github.com/classicbitcoins/cbitcoinjs#readme"
 }
